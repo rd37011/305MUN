@@ -1,0 +1,3 @@
+rootProject.name = 'mun'
+
+include ':app'
